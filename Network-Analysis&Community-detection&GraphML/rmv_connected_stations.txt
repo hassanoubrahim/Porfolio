@@ -1,0 +1,555 @@
+Kopernikusstraße	Krappmühlstraße	2
+Tattersall	Kopernikusstraße	2
+MA Hauptbahnhof	Tattersall	4
+MA Hauptbahnhof	Universität	7
+MA Schloss	Universität	5
+Paradeplatz	MA Schloss	5
+MA Marktplatz	Paradeplatz	8
+MA Marktplatz	Abendakademie	8
+Abendakademie	Alte Feuerwache	6
+Carl-Benz-Straße	Alte Feuerwache	3
+Carl-Benz-Straße	Neuer Meßplatz	3
+Herzogenriedstraße	Neuer Meßplatz	3
+Herzogenriedstraße	Untermühlaustraße	3
+Luzenberg	Untermühlaustraße	3
+Luzenberg	Waldhof Bahnhof	2
+Waldhof Bahnhof	Waldhof Nord	2
+Waldhof Nord	Schönau Siedlung	2
+Schönauschule	Schönau Siedlung	2
+Schönauschule	Schönau	2
+Krappmühlstraße	Bth. MA Möhlstraße	1
+MA Hochschule	Bth. MA Möhlstraße	1
+Lettestraße	MA Hochschule	2
+Lettestraße	Voltastraße	2
+Neckarau Bahnhof	Voltastraße	2
+Neckarau Bahnhof	Friedrichstraße	2
+Friedrichstraße	Isarweg	2
+Dannstadter Straße	Isarweg	2
+Dannstadter Straße	Sandrain	2
+Rheinau Karlsplatz	Sandrain	2
+Neuhofer Straße	Rheinau Karlsplatz	3
+Neuhofer Straße	Waldseestraße	3
+Distelsand	Waldseestraße	3
+Rheinau Bahnhof	Distelsand	3
+MA Hochschule	Krappmühlstraße	3
+Kurpfalzbrücke	Alte Feuerwache	3
+Kurpfalzbrücke	MVV-Hochhaus	3
+Dalbergstraße	MVV-Hochhaus	3
+Dalbergstraße	MA Rheinstraße	3
+MA Rheinstraße	MA Rathaus/REM	6
+Paradeplatz	MA Rathaus/REM	6
+Pestalozzischule	Weberstraße	4
+Pestalozzischule	Werderstraße	4
+Tattersall	Werderstraße	4
+Tattersall	Kunsthalle	3
+Rosengarten	Kunsthalle	4
+Gewerkschaftshaus	Rosengarten	1
+Gewerkschaftshaus	Abendakademie	3
+Gewerkschaftshaus	Alte Feuerwache	1
+Wasserturm	Kunsthalle	7
+Paradeplatz	Strohmarkt	8
+Strohmarkt	Wasserturm	8
+MA Hauptbahnhof Süd	MA Hauptbahnhof	2
+MA Hauptbahnhof Süd	Windeckstraße	2
+Windeckstraße	Diesterwegschule	2
+Meeräckerplatz	Diesterwegschule	2
+Meeräckerplatz	Markuskirche	2
+Markuskirche	Franz-Sigel-Straße	2
+Freiheitsplatz	Franz-Sigel-Straße	2
+Freiheitsplatz	Neckarau West	2
+Hanfstraße	Sandhofen	2
+Bürstadter Straße	Hanfstraße	2
+Bürstadter Straße	Papyrus	2
+Papyrus	Zellstoff-Fabrik	2
+Roche	Zellstoff-Fabrik	2
+Altrheinstraße	Roche	2
+Stolberger Straße	Altrheinstraße	2
+Luzenberg	Stolberger Straße	2
+Konrad-Adenauer-Brücke	Universität	4
+Berliner Platz	Konrad-Adenauer-Brücke	4
+Berliner Platz	Kaiser-Wilhelm-Straße	4
+Kaiser-Wilhelm-Straße	Pfalzbau/Wilhelm-Hack-Museum	4
+Pfalzbau/Wilhelm-Hack-Museum	Wittelsbachplatz	2
+Südwest-Stadion	Wittelsbachplatz	4
+Südwest-Stadion	Stifterstraße	3
+Stifterstraße	Mundenheim Nord	3
+Am Schwanen	Mundenheim Nord	3
+Am Schwanen	Schillerschule	3
+Hoheneckenstraße	Schillerschule	3
+Giulini	Hoheneckenstraße	3
+Nationaltheater	Rosengarten	5
+Nationaltheater	Theresienkrankenhaus	6
+Theresienkrankenhaus	Universitätsklinikum	5
+LU Schützenstraße	Wittelsbachplatz	3
+Berliner Platz	LU Schützenstraße	4
+Wilhelm-Tell-Straße	Oggersheim	3
+Hans-Warsch-Platz	Wilhelm-Tell-Straße	3
+Hans-Warsch-Platz	Mannheimer Tor	4
+Mannheimer Tor	Zum Guten Hirten	3
+Wollstraße	Zum Guten Hirten	3
+Heinrich-Pesch-Haus	Wollstraße	3
+LU Hauptfriedhof	Heinrich-Pesch-Haus	3
+LU Hauptfriedhof	Rohrlachstraße	3
+LU Hauptbahnhof	Rohrlachstraße	6
+Bürgermeister-Kutterer-Straße	LU Hauptbahnhof	4
+Bürgermeister-Kutterer-Straße	Pfalzbau/Wilhelm-Hack-Museum	4
+MA Hauptbahnhof	Kunsthalle	6
+Bibienastraße	Universitätsklinikum	3
+Bibienastraße	MA Hauptfriedhof	3
+LU Hauptbahnhof	Südwest-Stadion	2
+Berliner Platz	Ludwigstraße	4
+Ludwigstraße	LU Rathaus	4
+LU Rathaus	Handelshafen	3
+Handelshafen	MA Rheinstraße	3
+Mannheimer Straße	Käfertal Bahnhof	4
+Käfertal Süd	Mannheimer Straße	4
+Boveristraße	Käfertal Süd	4
+Boveristraße	Exerzierplatz	4
+Exerzierplatz	Bonifatiuskirche	4
+Bonifatiuskirche	Lange Rötterstraße	6
+Lange Rötterstraße	Universitätsklinikum	6
+Nationaltheater	Collini-Center	1
+Lessingstraße	Collini-Center	2
+Fernmeldeturm	Lessingstraße	2
+Fernmeldeturm	Holbeinstraße	2
+Neuostheim	Holbeinstraße	2
+Duale Hochschule	Neuostheim	3
+Duale Hochschule	Pforzheimer Straße	3
+Deutscher Hof	Pforzheimer Straße	3
+Deutscher Hof	Seckenheim Rathaus	3
+Seckenheim OEG-Bahnhof	Seckenheim Rathaus	3
+Neu-Edingen Gewerbegebiet	Seckenheim OEG-Bahnhof	3
+Edingen West	Neu-Edingen Gewerbegebiet	3
+Edingen Bahnhof	Edingen West	3
+Edingen Bahnhof	Wieblingen Taubenfeld	2
+Wieblingen Mitte	Wieblingen Taubenfeld	2
+Wieblingen Mitte	SRH Campus	2
+Ochsenkopf	SRH Campus	2
+Ochsenkopf	Berufsschule	2
+Gneisenaustraße Süd	Berufsschule	2
+HD Hauptbahnhof	Gneisenaustraße Süd	2
+HD Hauptbahnhof	Stadtwerke	6
+Stadtbücherei	Stadtwerke	5
+Seegarten	Stadtbücherei	8
+Bismarckplatz	Seegarten	7
+Bismarckplatz	Brückenstraße	3
+Kußmaulstraße	Brückenstraße	3
+Blumenthalstraße	Kußmaulstraße	3
+Kapellenweg	Blumenthalstraße	3
+Kapellenweg	Hans-Thoma-Platz	3
+Biethsstraße	Hans-Thoma-Platz	4
+Biethsstraße	Burgstraße	4
+Dossenheim Süd	Burgstraße	3
+Dossenheim Bahnhof	Dossenheim Süd	3
+Dossenheim Bahnhof	Dossenheim Nord	3
+Schriesheim Süd	Dossenheim Nord	3
+Schriesheim Bahnhof	Schriesheim Süd	3
+Schriesheim Bahnhof	Zentgrafenstraße	2
+Leutershausen Bahnhof	Zentgrafenstraße	2
+Leutershausen Bahnhof	Großsachsen Süd	2
+Großsachsen Bahnhof	Großsachsen Süd	2
+Großsachsen Bahnhof	Hohensachsen	2
+Hohensachsen	Lützelsachsen Bergstraße	2
+Lützelsachsen Bergstraße	Lützelsachsen Pilgerhaus	2
+Lützelsachsen Pilgerhaus	Rosenbrunnen	2
+Rosenbrunnen	Weinheim Alter OEG-Bahnhof	2
+Weinheim Hauptbahnhof	Weinheim Alter OEG-Bahnhof	2
+Weinheim Hauptbahnhof	Händelstraße	2
+Händelstraße	Stahlbad	2
+Blumenstraße	Stahlbad	2
+Blumenstraße	Weinheim Freiburger Straße	2
+Viernheim Walter-Gropius-Allee	Weinheim Freiburger Straße	2
+Viernheim Walter-Gropius-Allee	Viernheim Ost	2
+Viernheim Bahnhof	Viernheim Ost	2
+Viernheim Kapellenberg	Viernheim Bahnhof	2
+Viernheim Kapellenberg	Viernheim Tivoli	2
+Platz der Freundschaft	Viernheim Tivoli	2
+Bensheimer Straße	Platz der Freundschaft	2
+Bensheimer Straße	Käfertal Bahnhof	2
+Gewerkschaftshaus	Collini-Center	2
+Planetarium	Weberstraße	4
+Planetarium	Technoseum Süd	2
+Fahrlach	Technoseum Süd	2
+Fahrlach	Husarenweg	2
+Husarenweg	Ulanenweg	2
+Ulanenweg	Gerd-Dehof-Platz	2
+Gerd-Dehof-Platz	SAP Arena Süd	2
+SAP Arena Süd	SAP Arena S-Bahnhof	2
+Luisenpark/Technoseum	Planetarium	3
+Luisenpark/Technoseum	Carl-Benz-Stadion	3
+Harrlach	Carl-Benz-Stadion	3
+Harrlach	Lucas-Cranach-Straße	3
+Lucas-Cranach-Straße	Schwindstraße	3
+Neuostheim	Schwindstraße	3
+Brückweg	Rheingönheim	3
+Brückweg	Friedensstraße	3
+Giulini	Friedensstraße	3
+Oppau Süd	Oppau	4
+Ammoniakstraße	Oppau Süd	4
+Rottstückerweg	Ammoniakstraße	5
+Friesenheim Ost	Rottstückerweg	3
+Friesenheim Ost	Rheinfeldstraße	2
+Rheinfeldstraße	Schopenhauerstraße	4
+Schopenhauerstraße	BASF	4
+BASF	Hemshofstraße	4
+Gartenstraße	Hemshofstraße	2
+Gartenstraße	LU Rathaus	2
+Hans-Thoma-Straße	Duale Hochschule	1
+Hans-Thoma-Straße	Maimarkt	2
+Maimarkt	SAP Arena	2
+SAP Arena	SAP Arena Süd	1
+Rosengarten	Wasserturm	2
+Universitätsklinikum	Schafweide	4
+Alte Feuerwache	Schafweide	5
+Betriebshof	HD Hauptbahnhof	4
+Römerkreis Süd	Stadtwerke	2
+HD Freiburger Straße	Rohrbach Süd	5
+HD Freiburger Straße	Ortenauer Straße	3
+Ortenauer Straße	Rohrbach Markt	3
+Eichendorffplatz	Rohrbach Markt	3
+Eichendorffplatz	Markscheide	3
+HD Rheinstraße	Markscheide	3
+Bethanienkrankenhaus	HD Rheinstraße	3
+Bergfriedhof	Bethanienkrankenhaus	3
+Bergfriedhof	S-Bahnhof Weststadt/Südstadt	4
+Christuskirche	S-Bahnhof Weststadt/Südstadt	3
+Christuskirche	Römerkreis Süd	3
+Valentin-Bauer-Siedlung	Valentin-Bauer-Siedlung Süd	2
+LU Hochschule	Valentin-Bauer-Siedlung Süd	2
+BBS Franz-Zang-Straße	LU Hochschule	2
+BBS Franz-Zang-Straße	Achtmorgenstraße	2
+Achtmorgenstraße	Knappenwegstraße	2
+Maudacher Straße	Knappenwegstraße	1
+Volkshaus	Maudacher Straße	1
+Hochfeldstraße	Volkshaus	1
+Abteistraße	Hochfeldstraße	1
+Abteistraße	Ebereschenweg	1
+Königsbacher Straße	Ebereschenweg	1
+Königsbacher Straße	Leininger Straße	1
+Leininger Straße	Kärntner Straße	1
+Pommernstraße	Kärntner Straße	1
+Pommernstraße	Schlesierstraße	1
+Von-Kieffer-Straße	Schlesierstraße	1
+Von-Kieffer-Straße	Maudacher Bruch	1
+Maudach Ortseingang	Maudacher Bruch	1
+Maudach Gemeindehaus	Maudach Ortseingang	1
+Maudach Ortsmitte	Maudach Gemeindehaus	1
+Maudach Ortsmitte	Krappstraße	1
+Krappstraße	Maudach	1
+MA Hauptfriedhof	Pfeifferswörth	2
+Neckarplatt	Pfeifferswörth	2
+Am Aubuckel	Neckarplatt	1
+Am Aubuckel	Liebfrauenstraße	1
+Liebfrauenstraße	Blücherstraße	1
+Feudenheim Kirche	Blücherstraße	1
+Feudenheim Kirche	Neckarstraße	1
+Feudenheim	Neckarstraße	1
+Am Aubuckel	Pfeifferswörth	1
+Alte Feuerwache	Neumarkt	1
+Bürgermeister-Fuchs-Straße	Neumarkt	1
+Bürgermeister-Fuchs-Straße	Neckarstadt West	1
+Tannhäuserring	Neckarau West	1
+Tannhäuserring	Stollenwörth	1
+Rheingoldhalle	Stollenwörth	1
+Theresienkrankenhaus	Schafweide	1
+Paradeplatz	MA Rheinstraße	1
+Bonifatiuskirche	Hochuferstraße	2
+Hochuferstraße	Landwehrstraße	2
+Landwehrstraße	Ulmenweg	2
+Ulmenweg	Jugendverkehrsschule	2
+Hessische Straße	Jugendverkehrsschule	2
+Speckweg	Hessische Straße	2
+Speckweg	Hermann-Gutzmann-Schule	2
+Erlöserkirche	Hermann-Gutzmann-Schule	1
+Erlöserkirche	Waldstraße	1
+Freilichtbühne	Waldstraße	1
+Freilichtbühne	Waldfriedhof	1
+Carl-Benz-Bad	Erlöserkirche	1
+Käfertaler Wald	Carl-Benz-Bad	2
+Carl-Benz-Bad	Hermann-Gutzmann-Schule	2
+Oggersheim	Westlich B 9	4
+Ruchheim	Westlich B 9	4
+Ruchheim	Maxdorf	4
+Maxdorf	Maxdorf Süd	4
+Fußgönheim	Maxdorf Süd	4
+Ellerstadt Ost	Fußgönheim	4
+Ellerstadt Ost	Ellerstadt West	4
+Ellerstadt West	Gönnheim	4
+Friedelsheim	Gönnheim	4
+Bad Dürkheim Ost	Friedelsheim	4
+Bad Dürkheim Bahnhof	Bad Dürkheim Ost	4
+Abendakademie	Collini-Center	1
+Gewerkschaftshaus	Nationaltheater	2
+Hans-Thoma-Platz	Heiligenbergschule	2
+Technologiepark	Heiligenbergschule	2
+Technologiepark	Bunsengymnasium	2
+Bunsengymnasium	Jahnstraße	2
+Betriebshof	Jahnstraße	3
+Hans-Thoma-Straße	Neuostheim	1
+SAP Arena	SAP Arena S-Bahnhof	1
+Neckarplatt	Ziethenstraße	1
+Adolf-Damaschke-Ring	Ziethenstraße	1
+Adolf-Damaschke-Ring	Talstraße	1
+Hölderlinstraße	Talstraße	1
+Hölderlinstraße	Kiesäcker	1
+Vogelstang West	Kiesäcker	1
+Potsdamer Weg	Vogelstang West	1
+Potsdamer Weg	Vogelstang Zentrum	1
+Vogelstang	Vogelstang Zentrum	1
+Ziethenstraße	Pfeifferswörth	1
+Berliner Platz	MA Hauptbahnhof	2
+Berliner Platz	LU Rathaus	1
+Hemshofstraße	LU Rathaus	2
+Rheinfeldstraße	Rottstückerweg	2
+Tattersall	Krappmühlstraße	1
+Friedrichstraße	MA Hochschule	1
+Friedrichstraße	Rheinau Karlsplatz	1
+Berliner Platz	LU Hauptbahnhof	1
+Rohrlachstraße	Hans-Warsch-Platz	2
+Hans-Warsch-Platz	Oggersheim	2
+Hans-Warsch-Platz	Zum Guten Hirten	1
+Rohrlachstraße	Zum Guten Hirten	1
+Rottstraße	LU Schützenstraße	1
+Rottstraße	Amtsgericht	1
+Amtsgericht	Luitpoldhafen	1
+LU Hauptbahnhof	Marienkirche	1
+Marienkirche	Heinrich-Ries-Halle	1
+LU Klinikum	Heinrich-Ries-Halle	1
+Ebertpark/Fichtestraße	LU Klinikum	1
+Ebertpark/Fichtestraße	Ebertpark	1
+Im Rott	Käfertal Bahnhof	1
+Vogelstang West	Im Rott	1
+Vogelstang West	Wallstadt West	1
+Wallstadt Bahnhof	Wallstadt West	1
+Wallstadt Bahnhof	Wallstadt Ost	1
+Wallstadt Ost	Heddesheim Bahnhof	1
+Jahnstraße	Kirschnerstraße	1
+Kirschnerstraße	Campus Im Neuenheimer Feld	1
+Botanischer Garten	Campus Im Neuenheimer Feld	1
+Botanischer Garten	Med.Kl./Chirurgie/Zoo	1
+Jugendherberge	Med.Kl./Chirurgie/Zoo	1
+Jugendherberge	Schwimmbad	1
+Olympiastützpunkt	Schwimmbad	1
+Olympiastützpunkt	Fußballcampus HD	1
+Fußballcampus HD	Sportzentrum Nord	1
+Jugendherberge	Zoo	1
+Zoo	Med.Kl./Chirurgie/Zoo	1
+Seegarten	Gaisbergstraße	1
+Friedrich-Ebert-Platz	Gaisbergstraße	3
+Friedrich-Ebert-Platz	Peterskirche	3
+Oberer Fauler Pelz	Peterskirche	2
+Oberer Fauler Pelz	Rathaus/Bergbahn	2
+Neckarmünzplatz	Rathaus/Bergbahn	2
+Neckarmünzplatz	S-Bahnhof Altstadt	2
+S-Bahnhof Altstadt	Herrenmühle	3
+Rathaus/Bergbahn	Herrenmühle	2
+Friedrich-Ebert-Platz	Seegarten	1
+Technologiepark	Pädagogische Hochschule	1
+Pädagogische Hochschule	Kopfklinik	1
+Studentenwohnheim	Kopfklinik	1
+Schwimmbad	Studentenwohnheim	1
+Stadtbücherei	Ringstraße	1
+Ringstraße	Montpellierbrücke	1
+HD Hauptbahnhof Süd	Montpellierbrücke	1
+HD Hauptbahnhof Süd	Gadamerplatz	2
+Gadamerplatz	Eppelheimer Terrasse	1
+Henkel-Teroson-Straße	Eppelheimer Terrasse	1
+Henkel-Teroson-Straße	Marktstraße	1
+Marktstraße	Kranichweg/Stotz	1
+Jakobsgasse	Kranichweg/Stotz	1
+Jakobsgasse	Eppelheim Rathaus	1
+Kirchheimer Straße	Eppelheim Rathaus	1
+Czernybrücke	Gadamerplatz	2
+Betriebshof	Czernybrücke	2
+Rohrbach Süd	Zementwerk	1
+Johannes-Reidel-Straße	Zementwerk	1
+Johannes-Reidel-Straße	Georgi-Marktplatz	1
+Georgi-Marktplatz	Kurpfalz-Centrum	1
+Moltkestraße	Kurpfalz-Centrum	1
+Leimen Friedhof	Moltkestraße	1
+Römerkreis Süd	Stadtbücherei	1
+Kapellenweg	Heiligenbergschule	1
+Rudolf-Diesel-Straße	HD Hauptbahnhof Süd	1
+Rudolf-Diesel-Straße	Messplatz	2
+Ilse-Krall-Straße	Messplatz	1
+Albert-Fritz-Straße	Ilse-Krall-Straße	1
+Albert-Fritz-Straße	Odenwaldstraße	1
+Odenwaldstraße	Kirchheim Rathaus	1
+Kirchheim Friedhof	Kirchheim Rathaus	1
+Betriebshof	Volkshochschule	1
+Campus Bergheim	Volkshochschule	1
+Campus Bergheim	Altes Hallenbad	1
+Bismarckplatz	Altes Hallenbad	1
+Emmertsgrund	Jaspersstraße	3
+Jaspersstraße	Augustinum	3
+Forum	Augustinum	3
+Forum	HD Otto-Hahn-Straße	3
+Mombertplatz	HD Otto-Hahn-Straße	3
+Louise-Ebert-Zentrum	Mombertplatz	2
+Haselnussweg	Louise-Ebert-Zentrum	2
+Am Götzenberg	Haselnussweg	2
+Am Götzenberg	Rohrbach Süd	2
+Im Breitspiel	Rohrbach Süd	1
+Hertzstraße	Im Breitspiel	1
+Englerstraße	Hertzstraße	1
+Englerstraße	Tullastraße	1
+Redtenbacherstraße	Tullastraße	1
+Redtenbacherstraße	Hatschekstraße	1
+Im Breitspiel	Hatschekstraße	1
+Buchwaldweg	Louise-Ebert-Zentrum	1
+Buchwaldweg	Mombertplatz	3
+Forum	Jellinekstrasse	1
+Emmertsgrund	Jellinekstrasse	1
+Tullastraße	Rhein-Neckar-Werkstätten	1
+Redtenbacherstraße	Rhein-Neckar-Werkstätten	1
+Boxbergring	Haselnussweg	2
+Boxbergring	Fernheizwerk	2
+Fernheizwerk	Im Eichwald	2
+Buchwaldweg	Im Eichwald	2
+Mombertplatz	Rohrbach Süd	3
+Rohrbach Markt	Rohrbach Süd	1
+Marlene-Dietrich-Platz	Rohrbach Markt	1
+Nansenstraße	Marlene-Dietrich-Platz	1
+Feuerbachstraße	Nansenstraße	1
+Bergfriedhof	Feuerbachstraße	2
+Kaiserstraße	S-Bahnhof Weststadt/Südstadt	1
+Hans-Böckler-Straße	Kaiserstraße	1
+Bismarckplatz	Hans-Böckler-Straße	1
+Nansenstraße	Saarstraße	1
+Bergfriedhof	Nansenstraße	1
+HD Hauptbahnhof	S-Bahnhof Weststadt/Südstadt	1
+HD Hauptbahnhof	Stadtbücherei	2
+HD Freiburger Straße	Kolbenzeil	2
+Kolbenzeil	HD Rastatter Straße	2
+Erlenweg	HD Rastatter Straße	2
+S-Bahnhof Kirchheim/Rohrbach	Erlenweg	2
+S-Bahnhof Kirchheim/Rohrbach	Hagellachstraße	2
+Hagellachstraße	Obere Seegasse	2
+Obere Seegasse	Kirchheim Rathaus	2
+Kirchheim Rathaus	Pleikartsförster Straße	1
+Königsberger Straße	Pleikartsförster Straße	2
+Gregor-Mendel-Realschule	Königsberger Straße	2
+Gregor-Mendel-Realschule	Harbigweg	2
+Harbigweg	Messplatz	1
+Rudolf-Diesel-Straße	Feuerbachstraße	1
+Alfred-Jost-Straße	Kirchheim Rathaus	2
+Alfred-Jost-Straße	Mathilde-Vogt-Haus	2
+Mathilde-Vogt-Haus	Pleikartsförster Straße	2
+Harbigweg	Innovation Park (hip)	2
+Mary-Somerville-Platz (hip)	Innovation Park (hip)	2
+Montpellierbrücke	Mary-Somerville-Platz (hip)	2
+HD Hauptbahnhof	Montpellierbrücke	2
+Bismarckplatz	Gaisbergstraße	2
+S-Bahnhof Altstadt	Peterskirche	1
+S-Bahnhof Altstadt	Hausackerweg	2
+Rombachweg	Hausackerweg	2
+Jägerhaus	Rombachweg	2
+Adlerüberfahrt	Jägerhaus	2
+Adlerüberfahrt	S-Bahnhof Schlierbach/Ziegelhausen	2
+S-Bahnhof Schlierbach/Ziegelhausen	Kleingemünder Straße Ost	2
+Textilmuseum	Kleingemünder Straße Ost	2
+Textilmuseum	Neckarschule	2
+Heidebuckelweg	Schweizertalstraße	1
+Löwen	Schweizertalstraße	1
+Grüner Baum	Löwen	1
+Grüner Baum	Peterstaler Straße	1
+Kreuzgrundweg	Peterstaler Straße	1
+Fürstendamm	Kreuzgrundweg	2
+Fürstendamm	Mühldamm	2
+Mühldamm	Steinbacher Tal	2
+Neckarschule	Steinbacher Tal	2
+Kleingemünder Straße	Neckarschule	2
+S-Bahnhof Schlierbach/Ziegelhausen	Kleingemünder Straße	2
+Peterskirche	Herrenmühle	1
+Bismarckplatz	Friedrich-Ebert-Platz	2
+Erlenweg	Rastatter Straße West	2
+HD Rastatter Straße	Rastatter Straße West	2
+Kreuzgrundweg	Rainweg	1
+Mittlerer Rainweg	Rainweg	1
+Köpfel	Mittlerer Rainweg	1
+Karl-Dillinger-Straße	Albert-Haueisen-Ring	2
+Heinz-Schifferdecker-Straße	Albert-Haueisen-Ring	2
+Heinz-Schifferdecker-Straße	Robert-Lauth-Straße	1
+Georg-Heieck-Straße	Robert-Lauth-Straße	1
+Notwende	Robert-Lauth-Straße	1
+Am Weidenschlag	Notwende	2
+Am Weidenschlag	Rheinhorststraße	1
+Rheinhorststraße	Rosenwörthstraße	1
+Buschwegbrücke	Rosenwörthstraße	2
+Buschwegbrücke	Hans-Warsch-Platz	2
+Hollergärten	Mannheimer Tor	1
+Froschlache	Hollergärten	1
+Froschlache	Burbacher Straße	1
+LU Völklinger Straße	Burbacher Straße	1
+Ebertpark Süd	LU Völklinger Straße	1
+Pettenkoferstraße	Ebertpark Süd	1
+Marienkirche	Pettenkoferstraße	1
+Marienkirche	Friedenspark	1
+LU Rathaus	Friedenspark	1
+Marienkirche	Rohrlachstraße	2
+Rohrlachstraße	Pasadenaallee	1
+LU Rathaus	Pasadenaallee	1
+Hans-Warsch-Platz	Karl-Dillinger-Straße	1
+Im Schelmenherschel	Rosenwörthstraße	1
+Im Schelmenherschel	Uferstraße	1
+Am Weidenschlag	Uferstraße	1
+Notwende	Heinrich-Halfen-Straße	1
+Heinz-Schifferdecker-Straße	Heinrich-Halfen-Straße	1
+Fieskostraße	Hans-Warsch-Platz	1
+Fieskostraße	Erich-Kästner-Straße	1
+Speyerer Straße	Erich-Kästner-Straße	1
+Speyerer Straße	Hedwig-Laudien-Ring	1
+Hedwig-Laudien-Ring	Westlich B 9	1
+Westlich B 9	Oderstraße	1
+Am Hüttengraben	Westlich B 9	1
+Am Hüttengraben	Am Sportplatz	1
+Am Sportplatz	Brunnenweg	1
+Ruchheim Schloss	Brunnenweg	1
+Ruchheim Schloss	Paul-Münch-Straße	1
+Ruchheim	Paul-Münch-Straße	1
+Ruchheim	Am Herrschaftsweiher	1
+Speyerer Straße	Westlich B 9	1
+Ruchheim	FT Industriegebiet Am Römig	1
+Am Hüttengraben	Integrierte Gesamtschule (IGSLO)	1
+Speyerer Straße	Integrierte Gesamtschule (IGSLO)	1
+Speyerer Straße	Am Hüttengraben	1
+Am Hüttengraben	Hedwig-Laudien-Ring	1
+Goerdelerplatz	Leuschnerstraße	1
+Goerdelerplatz	Apostelkirche	1
+Marienkirche	Apostelkirche	1
+Rohrlachstraße	Valentin-Bauer-Siedlung	1
+BBS Franz-Zang-Straße	Am Schwanen	1
+Am Schwanen	Mundenheim Bahnhof	1
+Mundenheim Bahnhof	Knappenwegstraße	1
+LU Hochschule	Valentin-Bauer-Siedlung	1
+LU Feierabendhaus	Goerdelerplatz	1
+BASF	LU Feierabendhaus	2
+BASF	BASF Süd	2
+LU Feierabendhaus	Leuschnerstraße	2
+Bruderweg	Wolfsgrube	1
+Deichstraße	Wolfsgrube	1
+Deichstraße	Ostringplatz	1
+Kranichstraße	Ostringplatz	1
+Kranichstraße	Brüsseler Ring	1
+Brüsseler Ring	Pfingstweide Zentrum	1
+Pfingstweide Zentrum	Prager Straße	1
+Prager Straße	Londoner Ring	1
+Edigheim Kirche	Ostringplatz	1
+Edigheim Kirche	Rüdigerstraße	1
+Rüdigerstraße	Kurt-Schumacher-Straße	1
+Dammbruchstraße	Kurt-Schumacher-Straße	1
+Dammbruchstraße	Oppau Gemeindehaus	1
+Oppau Gemeindehaus	Oppau	1
+Horst-Schork-Straße	Oppau	1
+Ammoniakstraße	Horst-Schork-Straße	1
+Friesenheim Ost	Eschenbachstraße	1
+Friesenheim Mitte	Eschenbachstraße	1
+Friesenheim Mitte	Leuschnerstraße	1
+Rhein-Galerie	BASF Süd	1
+Berliner Platz	Rhein-Galerie	1
+Berliner Platz	Walzmühle	1
+Rhein-Galerie	Walzmühle	1
+Friesenheim Ost	Friesenheim Mitte	1
+Bruderweg	Rüdigerstraße	1
+LU Hauptbahnhof	Kaiser-Wilhelm-Straße	1
+Kaiser-Wilhelm-Straße	LU Rathaus	1
