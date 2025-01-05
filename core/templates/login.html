@@ -1,0 +1,110 @@
+{% extends "base.html" %}
+{% block title %}Login{% endblock %}
+
+{% block content %}
+    <div class="row bg-primary pt-5">
+        <div class="container">
+            <div class="col-md-12 mt-5 mb-5 pt-5">
+                <h2 class="">Login</h2>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 offset-md-2">
+                <div class="omb_login mt-5">
+                    <h3 class="omb_authTitle">Sign up or <a href="{{ url_for('login') }}">Login</a></h3>
+                    <div class="row omb_socialButtons">
+                        <div class="col-md-4">
+                            <a href="{{ url_for('google_login') }}" class="btn btn-lg btn-block omb_btn-google mb-2">
+                                <i class="fa fa-google-plus visible-xs"></i>
+                                <span class="hidden-xs">Google</span>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="{{ url_for('facebook_login') }}" class="btn btn-lg btn-block omb_btn-facebook mb-2">
+                                <i class="fa fa-facebook visible-xs"></i>
+                                <span class="hidden-xs">Facebook</span>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="{{ url_for('github_login') }}" class="btn btn-lg btn-block omb_btn-github">
+                                <i class="fa fa-github visible-xs"></i>
+                                <span class="hidden-xs">Github</span>
+                            </a>
+                        </div>
+                    </div>
+    
+                    <div class="row omb_loginOr">
+                        <div class="col-xs-12 col-sm-12">
+                            <hr class="omb_hrOr">
+                            <span class="omb_spanOr">or</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="container">
+            <div class="col-md-12 mt-5">
+
+                <div class="col-md-8 offset-md-2 mt-5">
+                    <div class="content-section">
+                        {% include 'flash_messages.html' %}
+                        <form method="POST" action="">
+                            {{ form.hidden_tag() }}
+                            <fieldset class="form-group">
+                                <legend class="border-bottom mb-4">Log In</legend>
+                                <div class="form-group">
+                                    <label class="form-control-label">Email</label>
+                                    {% if form.username.errors %}
+                                        {{ form.username(class="form-control form-control-lg is-invalid") }}
+                                        <div class="invalid-feedback">
+                                            {% for error in form.username.errors %}
+                                                <span>{{ error }}</span>
+                                            {% endfor %}
+                                        </div>
+                                    {% else %}
+                                        {{ form.username(class="form-control form-control-lg") }}
+                                    {% endif %}
+                                </div>
+                                <div class="form-group">
+                                    {{ form.password.label(class="form-control-label") }}
+                                    {% if form.password.errors %}
+                                        {{ form.password(class="form-control form-control-lg is-invalid") }}
+                                        <div class="invalid-feedback">
+                                            {% for error in form.password.errors %}
+                                                <span>{{ error }}</span>
+                                            {% endfor %}
+                                        </div>
+                                    {% else %}
+                                        {{ form.password(class="form-control form-control-lg") }}
+                                    {% endif %}
+                                </div>
+                                <div class="form-check">
+                                    {{ form.remember_me(class="form-check-input") }}
+                                    {{ form.remember_me.label(class="form-check-label") }}
+                                </div>
+                            </fieldset>
+                            <div class="form-group">
+                                {{ form.submit(class="btn btn-primary btn-block") }}
+                                <br>
+                                <small class="text-muted ml-2">
+                                    <a href="{{ url_for('reset_request') }}">Forgot Password?</a>
+                                </small>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="border-top pt-3">
+                        <small class="text-muted">
+                            Need An Account? <a class="ml-2" href="{{ url_for('register') }}">Sign Up Now</a>
+                        </small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

@@ -1,0 +1,81 @@
+{% extends "base.html" %} {% block title %}View all URLS{% endblock %} {% block
+content %}
+<div class="row bg-primary pt-5">
+  <div class="container">
+    <div class="col-md-12 mt-5 mb-5">
+      <h2 class="">All URLs</h2>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="container">
+    <div class="col-md-12 mt-5">
+        <p>Total links {{ count }}</p>
+      <table class="table table-stripped table-bordered">
+        <thead class="">
+          <th>Long</th>
+          <th>Short</th>
+          <th>Hits</th>
+          <th>QR Code</th>
+          <th>Created</th>
+        </thead>
+        <tbody>
+          {% for user, urls in vals.items %}
+          <tr>
+            <td>{{urls.long}}</td>
+            <td>
+              <a target="_blank" href="{{base_url + '/' + urls.short}}"
+                >{{base_url + '/' + urls.short}}</a
+              >
+            </td>
+            <td>{{urls.hits}}</td>
+            <td><img class="img-fluid" src="{{ qrcode(base_url + '/' + urls.short, box_size=5, border=5, back_color='#ee0979', fill_color='#fff') }}"></td>
+            <td>{{urls.created_at.strftime("%d %b, %Y %H:%M")}}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      <ul class="pagination">
+        {% if vals.has_prev %}
+        <li class="page-item">
+          <a
+            class="page-link"
+            href="{{ url_for('myurls', page_num=vals.prev_num) }}"
+            >Previous</a
+          >
+        </li>
+        {% else %}
+        <li class="page-item disabled">
+          <span class="page-link">Previous</span>
+          {% endif %}
+        </li>
+
+        {% for page in vals.iter_pages(left_edge=3, right_edge=3) %} {% if
+        page %}
+        <li class="page-item">
+          <a class="page-link" href="{{ url_for('myurls', page_num=page) }}"
+            >{{ page }}</a
+          >
+        </li>
+        {% else %}
+        <li class="page-item disabled" id="example_ellipsis">
+          <a href="#" class="page-link">…</a>
+        </li>
+        {% endif %} {% endfor %} {% if vals.has_next %}
+        <li class="page-item">
+          <a
+            class="page-link"
+            href="{{ url_for('myurls', page_num=vals.next_num) }}"
+            >Next</a
+          >
+        </li>
+        {% else %}
+        <li class="page-item disabled">
+          <span class="page-link">Next</span>
+          {% endif %}
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+{% endblock %}
